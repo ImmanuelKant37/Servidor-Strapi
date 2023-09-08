@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "semanas",
+  "info": {
+    "singularName": "semana",
+    "pluralName": "semanas",
+    "displayName": "Semana"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "dia": {
+      "type": "string"
+    }
+  }
+}
